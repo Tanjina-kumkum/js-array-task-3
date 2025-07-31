@@ -6,4 +6,7 @@ let add= touristPlace.concat(flowers)
 console.log(add);
 touristPlace.pop();
 console.log(touristPlace);
+const out1= touristPlace.pop();
+console.log(out1);
+
 
